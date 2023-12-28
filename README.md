@@ -21,20 +21,20 @@ To get started, follow the given steps:
 - **Step 1:** Download the code for the repository by [clicking here](https://github.com/lightlessdays/FlutterDraw/archive/refs/tags/v1.zip).
 - **Step 2:** Unzip the downloaded folder and open the folder in Visual Studio Code (or your favorite terminal).
 - **Step 3:** Get your OPENAI GPT-4 Access Key and copy the following command:
-  `
+  ```
   echo OPENAI_API_KEY=sk-your-key > .env.local
-  `
+  ```
   Make sure to replace sk-your-key with your OPENAI key.
   This will create a new file called `$.env.local` in your folder.
 - Once the command runs, enter the following command:
-  `
+  ```
   npm install
-  `
+  ```
   This command will install all the required NPM Packages for FlutterDraw.
 - Lastly, run the following command:
-  `
+  ```
   npm run dev
-  `
+  ```
   This will start the FlutterDraw server. Once the server starts, go to your favorite browser and type in the URL `https://localhost:3000` or [click here](https://localhost:3000). This will take you to the FlutterDraw whiteboard, where you can start writing code.
 
 ## Demonstration

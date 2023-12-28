@@ -51,6 +51,12 @@ To get started, follow the given steps:
 
 To utilize the full functionality of FlutterDraw, ensure that you have obtained a valid API key for the GPT Vision 4 API. You can acquire an API key by signing up on the GPT Vision 4 platform and following the provided instructions.
 
-## Contributing Guidelines
+## Community
 
-We welcome contributions from the community! Feel free to fork this repository, make changes, and submit pull requests to enhance the functionality and features of FlutterDraw.
+We welcome contributions from the community! Please refer to the following files before Contributing:
+- [CONTRIBUTING GUIDELINES](https://github.com/lightlessdays/FlutterDraw/blob/main/CONTRIBUTING_GUIDELINES.md)
+- [CODE OF CONDUCT](https://github.com/lightlessdays/FlutterDraw/blob/main/CODE_OF_CONDUCT.md)
+
+## Drawing to HTML & CSS
+
+This project has been inspired from, and several components of the code and UI have been derived from the original project by Sawyer Hood that translated wireframes into HTML & CSS. If you want to convert your drawings into HTML & CSS, instead of Flutter, check out this repository: [https://github.com/SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)https://github.com/SawyerHood/draw-a-ui

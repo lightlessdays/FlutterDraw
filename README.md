@@ -1,4 +1,4 @@
-# FlutterDraw: Draw Flutter Apps by Hand
+# FlutterDraw: Convert your Drawings into Flutter Apps
 
 <img src="flutterdrawbanner.png" width=100%>
 
@@ -11,6 +11,12 @@ Welcome to FlutterDraw, an innovative application powered by the GPT Vision 4 AP
 - **One-Click Conversion:** Instantly convert your sketches into complete, runnable Flutter code with a single click.
 - **Customization Options:** Fine-tune your designs and add specifications before conversion, including widget properties, layout configurations, and more.
 - **Preview and Download:** Review a preview of your generated Flutter app and easily download the code for immediate use.
+
+## Requirements
+
+- Compatible web browser (Chrome, Firefox, Safari, etc.)
+- Internet connectivity
+- GPT-4 Vision Access Key
 
 ## Getting Started
 
@@ -35,8 +41,16 @@ To get started, follow the given steps:
   ```
   npm run dev
   ```
-  This will start the FlutterDraw server. Once the server starts, go to your favorite browser and type in the URL `https://localhost:3000` or [click here](https://localhost:3000). This will take you to the FlutterDraw whiteboard, where you can start writing code.
+  This will start the FlutterDraw server. Once the server starts, go to your favorite browser and type in the URL `https://localhost:3000` or [click here](https://localhost:3000). This will take you to the FlutterDraw whiteboard, where you can start drawing.
 
 ## Demonstration
 
 <img src="demonstration.gif">
+
+## API Key
+
+To utilize the full functionality of FlutterDraw, ensure that you have obtained a valid API key for the GPT Vision 4 API. You can acquire an API key by signing up on the GPT Vision 4 platform and following the provided instructions.
+
+## Contributing Guidelines
+
+We welcome contributions from the community! Feel free to fork this repository, make changes, and submit pull requests to enhance the functionality and features of FlutterDraw.

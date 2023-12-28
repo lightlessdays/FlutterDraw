@@ -69,4 +69,4 @@ We welcome contributions from the community! Please refer to the following files
 
 ## Inspiration 😎
 
-This project has been inspired from, and several components of the code and UI have been derived from the original project by Sawyer Hood that translated wireframes into HTML & CSS. If you want to convert your drawings into HTML & CSS, instead of Flutter, check out this repository: [https://github.com/SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)https://github.com/SawyerHood/draw-a-ui
+This project has been inspired from, and several components of the code and UI have been derived from the original project by Sawyer Hood that translated wireframes into HTML & CSS. You can check out that repository if you want to convert your drawings into HTML & CSS Code.

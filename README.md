@@ -38,3 +38,5 @@ To get started, follow the given steps:
   This will start the FlutterDraw server. Once the server starts, go to your favorite browser and type in the URL `https://localhost:3000` or [click here](https://localhost:3000). This will take you to the FlutterDraw whiteboard, where you can start writing code.
 
 ## Demonstration
+
+<img src="demonstration.gif" width=100%>

@@ -39,4 +39,4 @@ To get started, follow the given steps:
 
 ## Demonstration
 
-<img src="demonstration.gif" width=50% align="center">
+<img src="demonstration.gif">
